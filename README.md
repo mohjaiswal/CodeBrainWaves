@@ -1,7 +1,7 @@
 # CodeBrainWaves: Navigating Mental Health in Tech
 
 ![Header Image](CodeBrainWavesHeader.webp)
-### A Groundbreaking Analysis by Moh Jaiswal
+### Mindmapping by Moh Jaiswal
 
 ## Introduction
 
