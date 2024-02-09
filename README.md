@@ -1,6 +1,6 @@
 # CodeBrainWaves: Navigating Mental Health in Tech
 
-![Header Image](SQLHeader.webp)
+![Header Image](CodeBrainWavesHeader.webp)
 ### A Groundbreaking Analysis by Moh Jaiswal
 
 ## Introduction
