@@ -1,0 +1,1260 @@
+SurveyID,Country,state
+1,United States,IL
+2,United States,IN
+3,Canada,NA
+4,United Kingdom,NA
+5,United States,TX
+6,United States,TN
+7,United States,MI
+8,Canada,NA
+9,United States,IL
+10,Canada,NA
+11,United States,OH
+12,Bulgaria,NA
+13,United States,CA
+14,United States,CT
+15,Canada,NA
+16,United States,IL
+17,United Kingdom,NA
+18,United States,TN
+19,United States,MD
+20,France,NA
+21,United States,NY
+22,United States,NC
+23,United States,MA
+24,United States,IA
+25,United States,CA
+26,United States,TN
+27,United States,TN
+28,United States,CA
+29,United States,OH
+30,United Kingdom,NA
+31,United Kingdom,NA
+32,United States,PA
+33,United Kingdom,NA
+34,United States,WA
+35,United States,WI
+36,United States,NY
+37,Canada,NA
+38,Portugal,NA
+39,United States,IN
+40,United States,TX
+41,United Kingdom,NA
+42,United States,MI
+43,Canada,NA
+44,Netherlands,NA
+45,United States,IN
+46,United States,TX
+47,United Kingdom,NA
+48,United States,TN
+49,Canada,NA
+50,United States,IL
+51,United States,TX
+52,United States,UT
+53,United States,NA
+54,United States,TN
+55,Switzerland,NA
+56,United States,NY
+57,United States,TN
+58,United States,NY
+59,United States,TN
+60,Canada,NA
+61,United States,IA
+62,Poland,NA
+63,United Kingdom,NA
+64,France,NA
+65,Canada,NA
+66,United States,CA
+67,Australia,NA
+68,United States,TX
+69,United States,NM
+70,United States,NY
+71,France,NA
+72,Canada,NA
+73,United States,MA
+74,United Kingdom,NA
+75,United States,CA
+76,United Kingdom,NA
+77,United States,WA
+78,United States,WA
+79,United States,UT
+80,Germany,NA
+81,United States,NY
+82,United Kingdom,NA
+83,Canada,NA
+84,United States,NY
+85,United States,CA
+86,United States,TX
+87,United Kingdom,NA
+88,United States,OR
+89,United States,FL
+90,United States,IL
+91,United States,NY
+92,United States,TX
+93,United States,OH
+94,Russia,NA
+95,Canada,NA
+96,United States,MN
+97,United States,MO
+98,Mexico,NA
+99,United States,AZ
+100,United States,IN
+101,Canada,NA
+102,United States,MA
+103,United States,NY
+104,United States,WI
+105,United States,NY
+106,United States,MO
+107,United States,OR
+108,Brazil,NA
+109,United States,TN
+110,United States,WA
+111,United States,NY
+112,United States,CA
+113,United States,MO
+114,United States,NY
+115,United States,TX
+116,United Kingdom,NA
+117,United Kingdom,NA
+118,Canada,NA
+119,United States,CT
+120,United States,CO
+121,United States,GA
+122,United States,DC
+123,United States,MN
+124,United States,WA
+125,Canada,NA
+126,United States,WA
+127,United Kingdom,NA
+128,United States,OR
+129,United Kingdom,NA
+130,Slovenia,NA
+131,United States,IL
+132,United States,CA
+133,United States,NE
+134,Costa Rica,NA
+135,Canada,NA
+136,United Kingdom,NA
+137,United Kingdom,NA
+138,United States,IA
+139,United States,MD
+140,Austria,NA
+141,United States,OR
+142,United Kingdom,NA
+143,United States,TX
+144,United States,MN
+145,United States,PA
+146,United States,IN
+147,United Kingdom,NA
+148,United States,WV
+149,Ireland,NA
+150,United States,MI
+151,Canada,NA
+152,United States,CA
+153,Poland,NA
+154,United States,IL
+155,United Kingdom,NA
+156,United States,IL
+157,United States,CA
+158,United States,OK
+159,United States,UT
+160,United States,IL
+161,United Kingdom,NA
+162,United States,NY
+163,United States,CA
+164,United States,MA
+165,United States,WA
+166,United Kingdom,NA
+167,United States,MN
+168,United States,CA
+169,Ireland,NA
+170,United Kingdom,NA
+171,United Kingdom,NA
+172,United Kingdom,NA
+173,India,NA
+174,United States,NC
+175,Canada,NA
+176,United States,MO
+177,United Kingdom,NA
+178,United States,MA
+179,United States,CA
+180,United States,TX
+181,Mexico,NA
+182,India,NA
+183,United Kingdom,NA
+184,United States,CA
+185,United States,WA
+186,United States,MA
+187,United Kingdom,NA
+188,France,NA
+189,United Kingdom,NA
+190,United States,CA
+191,South Africa,NA
+192,United States,MI
+193,Russia,NA
+194,United States,CA
+195,Germany,NA
+196,Italy,NA
+197,United States,NY
+198,United States,CA
+199,United States,TN
+200,United Kingdom,NA
+201,United States,OR
+202,United States,MN
+203,United States,FL
+204,Ireland,NA
+205,Austria,NA
+206,United Kingdom,NA
+207,Canada,NA
+208,United States,MA
+209,United States,KS
+210,Bulgaria,NA
+211,United States,DC
+212,United Kingdom,NA
+213,United Kingdom,NA
+214,United States,TX
+215,United States,MA
+216,United States,MI
+217,Germany,NA
+218,Canada,NA
+219,United States,NY
+220,United States,VA
+221,United States,WA
+222,United Kingdom,NA
+223,United States,PA
+224,United States,MI
+225,United States,PA
+226,United States,OR
+227,United States,WA
+228,Australia,NA
+229,United States,PA
+230,United Kingdom,NA
+231,United States,OH
+232,United States,TX
+233,United Kingdom,NA
+234,United States,NH
+235,Netherlands,NA
+236,United Kingdom,NA
+237,Canada,NA
+238,United Kingdom,NA
+239,United States,NC
+240,Canada,NA
+241,Sweden,NA
+242,United States,FL
+243,United States,CA
+244,South Africa,NA
+245,United States,GA
+246,United States,OH
+247,United States,KY
+248,United Kingdom,NA
+249,United States,NC
+250,United States,NY
+251,United States,AL
+252,United States,GA
+253,United States,CA
+254,United Kingdom,NA
+255,United States,VA
+256,Canada,NA
+257,United Kingdom,NA
+258,United States,WA
+259,United Kingdom,NA
+260,Australia,NA
+261,United States,TX
+262,Canada,NA
+263,United States,FL
+264,Poland,NA
+265,Canada,NA
+266,United States,NV
+267,United States,AL
+268,United Kingdom,NA
+269,United States,CA
+270,United States,CO
+271,Ireland,NA
+272,United States,MN
+273,United States,NJ
+274,United Kingdom,NA
+275,United States,PA
+276,Canada,NA
+277,United States,MO
+278,Colombia,NA
+279,United States,MN
+280,United States,PA
+281,Australia,NA
+282,Portugal,NA
+283,United States,TX
+284,United States,NY
+285,Canada,NA
+286,United Kingdom,NA
+287,United States,WA
+288,United States,WA
+289,United States,TX
+290,United States,TX
+291,Switzerland,NA
+292,United States,CA
+293,United States,NY
+294,United States,CA
+295,United States,NA
+296,United States,CA
+297,United States,SC
+298,United States,CA
+299,United States,CA
+300,United States,NY
+301,United States,NY
+302,United States,CA
+303,United States,MA
+304,United States,WA
+305,United States,CA
+306,Canada,NA
+307,United States,IL
+308,United States,IN
+309,United States,OR
+310,United States,TN
+311,Canada,NA
+312,United States,OR
+313,United States,WA
+314,United States,CA
+315,United States,CA
+316,United States,VT
+317,United States,NY
+318,United States,UT
+319,United States,NY
+320,Latvia,NY
+321,United States,SD
+322,United States,CA
+323,United States,OR
+324,United States,CA
+325,United States,CA
+326,United States,CA
+327,United States,CO
+328,United States,CA
+329,United States,OH
+330,Germany,NA
+331,United States,WA
+332,Canada,NA
+333,United States,OH
+334,Ireland,NA
+335,Romania,NA
+336,United States,WA
+337,United Kingdom,NA
+338,United States,CA
+339,United States,MA
+340,United States,WA
+341,United States,MI
+342,United States,WA
+343,United States,CA
+344,United States,IA
+345,United Kingdom,NA
+346,United States,WA
+347,United States,AL
+348,United States,CA
+349,United States,CA
+350,United States,CA
+351,Belgium,NA
+352,United States,MA
+353,United Kingdom,NA
+354,United States,CA
+355,Sweden,NA
+356,United States,CA
+357,United States,IN
+358,United States,WA
+359,United States,WA
+360,United States,IN
+361,United States,WA
+362,Germany,NA
+363,United States,OK
+364,United States,MI
+365,United States,OH
+366,United States,GA
+367,United States,CA
+368,United States,NA
+369,United States,IN
+370,United Kingdom,NA
+371,United States,WA
+372,United States,WA
+373,United States,PA
+374,United States,WA
+375,United States,CA
+376,United States,MA
+377,United States,WA
+378,United States,WA
+379,United States,NY
+380,United States,CA
+381,Canada,NA
+382,United States,CA
+383,United States,IN
+384,Germany,NA
+385,United States,NV
+386,United States,CO
+387,New Zealand,NA
+388,United States,CA
+389,United States,CA
+390,Sweden,NA
+391,Zimbabwe,NA
+392,United States,PA
+393,United States,SC
+394,Canada,NA
+395,United States,TX
+396,United States,TX
+397,United Kingdom,NA
+398,United Kingdom,NA
+399,United States,AL
+400,Canada,NA
+401,United States,OR
+402,United States,NJ
+403,United States,CA
+404,United States,CA
+405,Germany,NA
+406,United States,CA
+407,United States,NH
+408,United States,CA
+409,Brazil,NA
+410,Spain,NA
+411,United States,OH
+412,United States,OH
+413,United States,MA
+414,United Kingdom,NA
+415,United States,OK
+416,United States,CA
+417,Germany,NA
+418,India,NA
+419,Finland,NA
+420,United States,ID
+421,Germany,NA
+422,Uruguay,NA
+423,New Zealand,NA
+424,United Kingdom,NA
+425,United States,NY
+426,United States,CA
+427,United States,TX
+428,United States,MD
+429,United States,IN
+430,United States,OR
+431,Canada,NA
+432,United States,NY
+433,United States,MS
+434,United States,NJ
+435,United States,CA
+436,United States,TN
+437,United States,WA
+438,Australia,NA
+439,United States,MA
+440,United States,PA
+441,United Kingdom,NA
+442,United States,KY
+443,United States,PA
+444,United States,MA
+445,Canada,NA
+446,United States,CA
+447,United States,VT
+448,United States,CA
+449,United States,AZ
+450,Canada,NA
+451,United States,MA
+452,United States,VA
+453,United States,WA
+454,United States,CA
+455,United States,OR
+456,United States,MI
+457,Brazil,NA
+458,Netherlands,NA
+459,United Kingdom,NA
+460,United States,OR
+461,United Kingdom,NA
+462,United States,CA
+463,United States,UT
+464,United States,CA
+465,United States,TX
+466,United Kingdom,NA
+467,United States,CA
+468,United Kingdom,NA
+469,France,NA
+470,Netherlands,NA
+471,United States,OR
+472,United States,CA
+473,United States,OH
+474,United Kingdom,NA
+475,United States,OH
+476,United States,CA
+477,Germany,NA
+478,Germany,NA
+479,Finland,NA
+480,United States,NY
+481,United States,VA
+482,United States,CA
+483,United Kingdom,NA
+484,United States,IL
+485,United States,TX
+486,Germany,NA
+487,United States,NY
+488,United States,CA
+489,Israel,MD
+490,Italy,NA
+491,United States,CA
+492,United States,PA
+493,Israel,NA
+494,United States,CA
+495,United States,WA
+496,United States,NY
+497,United States,TX
+498,United States,CA
+499,United Kingdom,NA
+500,Netherlands,NA
+501,United States,AZ
+502,Ireland,NA
+503,United Kingdom,NA
+504,Germany,NA
+505,United States,OH
+506,United States,CA
+507,United States,KS
+508,United Kingdom,NA
+509,United States,CA
+510,United States,CA
+511,United States,NY
+512,United States,WA
+513,United States,CA
+514,United States,WA
+515,United States,VA
+516,United States,NC
+517,United States,OH
+518,United States,PA
+519,Germany,NA
+520,United Kingdom,NA
+521,United States,CA
+522,United States,TX
+523,United States,AZ
+524,Bosnia and Herzegovina,NA
+525,United States,IL
+526,United States,NA
+527,Austria,NA
+528,New Zealand,NA
+529,United States,NC
+530,Canada,NA
+531,United Kingdom,NA
+532,Australia,NA
+533,Hungary,NA
+534,Sweden,NA
+535,Canada,NA
+536,Australia,NA
+537,United States,WI
+538,United States,CA
+539,United Kingdom,NA
+540,United States,CA
+541,United States,MN
+542,United States,PA
+543,United Kingdom,NA
+544,United States,CA
+545,United Kingdom,NA
+546,United Kingdom,NA
+547,United Kingdom,NA
+548,United States,CA
+549,United States,CA
+550,Germany,NA
+551,United States,CA
+552,New Zealand,NA
+553,Canada,NA
+554,United Kingdom,NA
+555,New Zealand,NA
+556,Canada,NA
+557,Australia,NA
+558,United States,NY
+559,Netherlands,NA
+560,United States,CA
+561,United States,FL
+562,United States,OR
+563,Australia,NA
+564,United States,CO
+565,Canada,NA
+566,United States,GA
+567,United States,OR
+568,United States,CA
+569,United States,CA
+570,United States,PA
+571,United States,CA
+572,United States,CA
+573,United States,NY
+574,United States,MA
+575,United States,NA
+576,United States,PA
+577,United States,RI
+578,United States,MI
+579,Canada,NA
+580,United States,IL
+581,United States,CA
+582,United States,OR
+583,Canada,NA
+584,United States,IN
+585,Singapore,NA
+586,United States,MA
+587,Australia,NA
+588,United States,MI
+589,United States,OH
+590,United States,OH
+591,United States,NH
+592,United States,OH
+593,Canada,NA
+594,United States,TN
+595,United States,OR
+596,United States,PA
+597,United States,NA
+598,United States,NY
+599,United States,WA
+600,United States,NY
+601,United States,CA
+602,United States,TN
+603,United States,WI
+604,United States,WI
+605,United States,PA
+606,United States,MI
+607,United States,WY
+608,United States,KY
+609,United States,NY
+610,Australia,NA
+611,United States,TX
+612,United States,WI
+613,United States,WA
+614,Singapore,NA
+615,United States,WA
+616,United States,GA
+617,United States,MI
+618,United States,MD
+619,Netherlands,NA
+620,United Kingdom,NA
+621,Germany,NA
+622,Netherlands,NA
+623,United States,WA
+624,United States,CA
+625,United States,OR
+626,United States,CA
+627,Canada,NA
+628,United States,CA
+629,Canada,NA
+630,United States,MI
+631,United Kingdom,NA
+632,United States,MA
+633,Germany,NA
+634,United States,CA
+635,Germany,NA
+636,Germany,NA
+637,Poland,NA
+638,United Kingdom,NA
+639,United States,NA
+640,Japan,NA
+641,Germany,NA
+642,Germany,NA
+643,Australia,NA
+644,United States,CA
+645,Belgium,NA
+646,Ireland,NA
+647,Ireland,NA
+648,Australia,NA
+649,Australia,NA
+650,Netherlands,NA
+651,United States,FL
+652,United Kingdom,NA
+653,United Kingdom,NA
+654,Australia,NA
+655,United States,WA
+656,Nigeria,NA
+657,Poland,NA
+658,Germany,NA
+659,United Kingdom,NA
+660,Germany,NA
+661,Switzerland,NA
+662,United Kingdom,NA
+663,United States,CA
+664,Ireland,NA
+665,Italy,NA
+666,Ireland,NA
+667,India,NA
+668,Ireland,NA
+669,Netherlands,NA
+670,France,NA
+671,Russia,NA
+672,United States,NC
+673,Canada,NA
+674,Israel,NA
+675,Canada,NA
+676,United States,IL
+677,India,NA
+678,United States,OH
+679,Germany,NA
+680,United States,VA
+681,Bulgaria,NA
+682,United States,MN
+683,United States,MO
+684,Canada,NA
+685,United Kingdom,NA
+686,India,NA
+687,United States,NC
+688,United States,NY
+689,United States,NM
+690,United Kingdom,NA
+691,Canada,NA
+692,Netherlands,NA
+693,Germany,NA
+694,Canada,NA
+695,United Kingdom,NA
+696,United Kingdom,NA
+697,France,NA
+698,United States,TX
+699,France,NA
+700,United States,SC
+701,United States,FL
+702,United States,WA
+703,United States,CA
+704,United States,OH
+705,United States,TN
+706,United Kingdom,NA
+707,United States,NY
+708,United States,NY
+709,United States,MO
+710,United States,NY
+711,United Kingdom,NA
+712,France,NA
+713,United States,TN
+714,United States,CO
+715,United States,PA
+716,United Kingdom,NA
+717,Germany,NA
+718,United States,NY
+719,Netherlands,NA
+720,United States,MN
+721,United Kingdom,NA
+722,Canada,NA
+723,Canada,NA
+724,United States,MO
+725,United States,WY
+726,South Africa,NA
+727,Germany,NA
+728,Switzerland,NA
+729,United States,MN
+730,Croatia,NA
+731,United Kingdom,NA
+732,France,NA
+733,United States,MD
+734,United States,KY
+735,United States,OH
+736,United Kingdom,NA
+737,United States,NY
+738,United Kingdom,NA
+739,United Kingdom,NA
+740,United States,TN
+741,Australia,NA
+742,Belgium,NA
+743,United Kingdom,NA
+744,United States,TX
+745,United States,OH
+746,United States,TX
+747,Canada,NA
+748,Italy,NA
+749,United States,CA
+750,Canada,NA
+751,Norway,NA
+752,Germany,NA
+753,United States,MI
+754,Thailand,NA
+755,United States,CA
+756,United States,OR
+757,United States,NC
+758,United States,CA
+759,Germany,NA
+760,United States,IL
+761,Canada,NA
+762,United States,CA
+763,Ireland,NA
+764,Ireland,NA
+765,United States,CA
+766,Netherlands,NA
+767,United States,AZ
+768,United Kingdom,NA
+769,United States,CA
+770,United Kingdom,NA
+771,United Kingdom,NA
+772,United States,VA
+773,United Kingdom,NA
+774,United Kingdom,NA
+775,United Kingdom,NA
+776,Canada,NA
+777,United States,VA
+778,United Kingdom,NA
+779,United States,WA
+780,United Kingdom,NA
+781,United Kingdom,NA
+782,United States,WI
+783,United Kingdom,NA
+784,United States,CA
+785,United States,CA
+786,United States,NE
+787,United Kingdom,NA
+788,United States,CO
+789,Netherlands,NA
+790,Switzerland,NA
+791,United Kingdom,NA
+792,United States,NY
+793,United States,TX
+794,United States,LA
+795,United States,WA
+796,United States,MI
+797,United States,CA
+798,Brazil,NA
+799,Switzerland,NA
+800,United States,CA
+801,United States,MD
+802,United States,CA
+803,United States,CT
+804,United States,CA
+805,United Kingdom,NA
+806,United States,CA
+807,United States,WA
+808,United States,CA
+809,United States,IN
+810,United States,TX
+811,United Kingdom,NA
+812,United Kingdom,NA
+813,United States,MO
+814,United States,NV
+815,United Kingdom,NA
+816,United States,WA
+817,United States,FL
+818,United States,NA
+819,Germany,NA
+820,Denmark,NA
+821,United States,WA
+822,Denmark,NA
+823,United States,IL
+824,United States,FL
+825,United States,MA
+826,United States,CA
+827,United States,WA
+828,United States,MI
+829,United Kingdom,NA
+830,United States,MI
+831,United States,WI
+832,United States,CA
+833,Sweden,NA
+834,United States,CA
+835,United States,TX
+836,United Kingdom,NA
+837,United States,NY
+838,United States,PA
+839,United Kingdom,NA
+840,United States,PA
+841,United States,GA
+842,United Kingdom,NA
+843,United States,NY
+844,United States,CA
+845,United States,TN
+846,Italy,NA
+847,United States,TN
+848,Netherlands,NA
+849,United States,TN
+850,United States,IL
+851,United States,WI
+852,United States,KY
+853,United Kingdom,NA
+854,Canada,NA
+855,United States,NA
+856,United States,CA
+857,United States,MN
+858,United States,TN
+859,United States,MN
+860,United Kingdom,NA
+861,United Kingdom,NA
+862,United Kingdom,NA
+863,United States,IL
+864,United States,TN
+865,United States,IL
+866,United Kingdom,NA
+867,United States,DC
+868,United States,KS
+869,Germany,NA
+870,Mexico,NA
+871,United States,CA
+872,United Kingdom,NA
+873,United Kingdom,NA
+874,United States,TN
+875,United States,OK
+876,United States,CA
+877,United States,TN
+878,United States,TX
+879,United Kingdom,NA
+880,United States,CO
+881,United States,TN
+882,United States,GA
+883,United States,TN
+884,United States,VA
+885,United States,TN
+886,United States,DC
+887,United Kingdom,NA
+888,United Kingdom,NA
+889,India,NA
+890,United States,TN
+891,United States,VA
+892,United States,TN
+893,United States,TN
+894,United States,TN
+895,United States,TN
+896,United States,TN
+897,United States,IN
+898,Germany,NA
+899,United States,VA
+900,United States,TX
+901,United States,TX
+902,United Kingdom,NA
+903,United States,CA
+904,United Kingdom,NA
+905,United States,CO
+906,United States,OR
+907,United States,OK
+908,United States,OH
+909,United States,TN
+910,United States,VA
+911,Australia,NA
+912,United States,OR
+913,United Kingdom,NA
+914,United States,OR
+915,Canada,NA
+916,United Kingdom,NA
+917,United States,PA
+918,United Kingdom,NA
+919,United States,SC
+920,United States,CA
+921,United States,TN
+922,United States,UT
+923,United States,CA
+924,New Zealand,NA
+925,United States,MO
+926,United States,CA
+927,United States,NA
+928,United States,NY
+929,United States,TX
+930,United States,MO
+931,United States,GA
+932,United States,TX
+933,United States,WA
+934,United States,WA
+935,United States,WA
+936,United Kingdom,NA
+937,United States,TX
+938,Netherlands,NA
+939,United States,WA
+940,United States,WA
+941,United States,WA
+942,United States,WA
+943,United States,AZ
+944,United States,WA
+945,United States,WA
+946,United States,AZ
+947,United States,NY
+948,United States,WA
+949,United States,CA
+950,United States,WA
+951,Netherlands,NA
+952,United Kingdom,NA
+953,South Africa,NA
+954,United States,WA
+955,United States,TN
+956,Germany,NA
+957,United States,WA
+958,Netherlands,NA
+959,United States,CA
+960,United Kingdom,NA
+961,United Kingdom,NA
+962,Germany,NA
+963,Germany,NA
+964,United Kingdom,NA
+965,United Kingdom,NA
+966,United Kingdom,NA
+967,United Kingdom,NA
+968,United Kingdom,NA
+969,United Kingdom,NA
+970,United Kingdom,NA
+971,United States,MI
+972,United Kingdom,NA
+973,United States,IN
+974,United States,GA
+975,Germany,NA
+976,Germany,NA
+977,United States,WA
+978,France,NA
+979,Belgium,NA
+980,United Kingdom,NA
+981,United States,ME
+982,Canada,NA
+983,United Kingdom,NA
+984,United States,NY
+985,Canada,NA
+986,United Kingdom,NA
+987,United Kingdom,NA
+988,United Kingdom,NA
+989,United States,PA
+990,"Bahamas, The",IL
+991,United Kingdom,NA
+992,United Kingdom,NA
+993,United States,IL
+994,United Kingdom,NA
+995,India,NA
+996,United Kingdom,NA
+997,United States,MN
+998,United States,TX
+999,United Kingdom,NA
+1000,Sweden,NA
+1001,United States,PA
+1002,United States,IN
+1003,United States,PA
+1004,United States,OH
+1005,United Kingdom,NA
+1006,United Kingdom,NA
+1007,United States,PA
+1008,United States,SD
+1009,United States,IN
+1010,United States,CA
+1011,United States,TN
+1012,United States,TX
+1013,United States,TN
+1014,United States,OR
+1015,United States,SD
+1016,Israel,NA
+1017,United States,NY
+1018,United States,CT
+1019,United States,CA
+1020,United States,NA
+1021,Canada,NA
+1022,United States,GA
+1023,United States,TN
+1024,United Kingdom,NA
+1025,United States,IN
+1026,United States,CA
+1027,United States,OR
+1028,United States,IN
+1029,United States,GA
+1030,United States,IN
+1031,United States,MN
+1032,United States,MN
+1033,United States,NC
+1034,United States,FL
+1035,United States,MN
+1036,Canada,NA
+1037,Australia,NA
+1038,United States,MO
+1039,United States,CA
+1040,United States,OR
+1041,United States,OH
+1042,United States,NY
+1043,United States,WI
+1044,United States,WA
+1045,United Kingdom,NA
+1046,Canada,NA
+1047,Italy,NA
+1048,Brazil,NA
+1049,United States,IL
+1050,United Kingdom,NA
+1051,United States,WA
+1052,United States,IL
+1053,Switzerland,NA
+1054,United States,FL
+1055,United States,TN
+1056,United States,WA
+1057,United States,CA
+1058,United States,FL
+1059,Canada,NA
+1060,United States,OR
+1061,United States,NJ
+1062,United States,CA
+1063,United States,FL
+1064,United States,UT
+1065,Germany,NA
+1066,South Africa,NA
+1067,United States,NJ
+1068,United States,PA
+1069,United States,IN
+1070,Greece,NA
+1071,United States,OH
+1072,United States,OH
+1073,United States,IL
+1074,United States,IN
+1075,United States,CA
+1076,United States,WA
+1077,United States,VA
+1078,United States,WA
+1079,United States,NJ
+1080,Netherlands,NA
+1081,United States,UT
+1082,Netherlands,NA
+1083,United States,TN
+1084,Canada,NA
+1085,United Kingdom,NA
+1086,Germany,NA
+1087,Germany,NA
+1088,United States,IN
+1089,United States,IN
+1090,United States,CA
+1091,United States,OH
+1092,United States,TX
+1093,United States,TN
+1094,United States,WA
+1095,United States,UT
+1096,United States,AL
+1097,United States,WI
+1098,United States,WA
+1099,United States,WI
+1100,United States,NY
+1101,United States,NY
+1102,United States,OH
+1103,Canada,NA
+1104,United States,WA
+1105,United States,CA
+1106,United States,SC
+1107,France,NA
+1108,Australia,NA
+1109,United States,CA
+1110,India,NA
+1111,Croatia,NA
+1112,France,NA
+1113,Germany,NA
+1114,United States,MN
+1115,United States,WA
+1116,Canada,NA
+1117,United Kingdom,NA
+1118,United States,PA
+1119,United States,NY
+1120,United States,VT
+1121,United Kingdom,NA
+1122,United Kingdom,NA
+1123,United Kingdom,NA
+1124,United States,MI
+1125,United States,NY
+1126,Germany,NA
+1127,United States,NY
+1128,United States,AL
+1129,Netherlands,NA
+1130,United States,MI
+1131,United States,WA
+1132,United Kingdom,NA
+1133,United States,TN
+1134,New Zealand,NA
+1135,New Zealand,NA
+1136,United Kingdom,NA
+1137,United Kingdom,NA
+1138,United Kingdom,NA
+1139,Germany,NA
+1140,United Kingdom,NA
+1141,Moldova,NA
+1142,Sweden,NA
+1143,Belgium,NA
+1144,United Kingdom,NA
+1145,Israel,NA
+1146,United States,NY
+1147,United Kingdom,NA
+1148,United Kingdom,NA
+1149,United States,IN
+1150,United States,NC
+1151,United States,CA
+1152,United Kingdom,NA
+1153,Canada,NA
+1154,United Kingdom,NA
+1155,United States,TN
+1156,Canada,NA
+1157,Netherlands,NA
+1158,United Kingdom,NA
+1159,United States,MN
+1160,Singapore,NA
+1161,United States,NC
+1162,United Kingdom,NA
+1163,India,NA
+1164,United States,TX
+1165,United States,CA
+1166,United States,CA
+1167,United States,IL
+1168,Poland,NA
+1169,Colombia,NA
+1170,United States,PA
+1171,United States,IL
+1172,United States,IL
+1173,United States,MN
+1174,United Kingdom,NA
+1175,Georgia,NA
+1176,United States,NY
+1177,United States,MI
+1178,United States,OH
+1179,China,NA
+1180,Bulgaria,UT
+1181,United States,NY
+1182,United States,CA
+1183,United States,IN
+1184,United States,IN
+1185,United States,VA
+1186,United States,OK
+1187,United States,OR
+1188,United States,AL
+1189,Belgium,NA
+1190,United States,AL
+1191,United States,OH
+1192,Canada,NA
+1193,United Kingdom,NA
+1194,Italy,NA
+1195,Germany,NA
+1196,Ireland,NA
+1197,Ireland,NA
+1198,Ireland,NA
+1199,United States,TX
+1200,Ireland,NA
+1201,Australia,NA
+1202,United States,TX
+1203,Brazil,NA
+1204,United Kingdom,NA
+1205,Ireland,NA
+1206,Ireland,NA
+1207,United Kingdom,NA
+1208,United States,TX
+1209,Czech Republic,NA
+1210,Singapore,NA
+1211,Ireland,NA
+1212,Ireland,NA
+1213,United Kingdom,NA
+1214,Philippines,NA
+1215,United States,FL
+1216,Netherlands,NA
+1217,United Kingdom,NA
+1218,Ireland,NA
+1219,Netherlands,NA
+1220,United States,TX
+1221,United States,CA
+1222,United States,MD
+1223,Netherlands,NA
+1224,United Kingdom,NA
+1225,Ireland,NA
+1226,Ireland,NA
+1227,Netherlands,NA
+1228,Ireland,NA
+1229,United States,MN
+1230,Greece,NA
+1231,United Kingdom,NA
+1232,United Kingdom,NA
+1233,United Kingdom,NA
+1234,United Kingdom,NA
+1235,United Kingdom,NA
+1236,Canada,NA
+1237,United States,CA
+1238,Ireland,NA
+1239,United States,TN
+1240,Netherlands,NA
+1241,Germany,NA
+1242,Poland,NA
+1243,Ireland,NA
+1244,United States,FL
+1245,United Kingdom,NA
+1246,Australia,NA
+1247,United States,OR
+1248,Finland,NA
+1249,United States,WA
+1250,United States,CA
+1251,United States,CA
+1252,South Africa,NA
+1253,United States,NC
+1254,United States,UT
+1255,United Kingdom,NA
+1256,United States,IL
+1257,United States,CA
+1258,United States,NC
+1259,United States,IL
