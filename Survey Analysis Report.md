@@ -10,7 +10,7 @@ This report provides insights into the mental health status of tech employees ba
 
 **Answer:**
 
-![Screenshot for Question 1](OutputImages/Answer1.jpg)
+![Screenshot for Question 1](Output Images/Answer1.jpg)
 
 ### Question 2: How Many Surveyed Were Older Than 25?
 
