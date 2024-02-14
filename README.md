@@ -17,6 +17,8 @@ Tech professionals often face unique pressures, including long hours, high stake
 
 ## Insights from the Mental Health inTech Survey
 
+Note: For detailed screenshots of the query please refer to the [Survey Analysis Report.md](https://github.com/mohjaiswal/CodeBrainWaves/blob/main/Survey%20Analysis%20Report.md)
+
 Diving into the vast sea of data from the 2015 Mental Health inTech Survey, we've unearthed some compelling narratives about the state of mental health within the tech industry. Here's a summary of our key findings:
 
 - **The Age of Awareness:** A significant majority, **1034 respondents**, are navigating the challenges of the tech world beyond the age of 25, indicating a workforce with potentially deeper professional and life experiences.
