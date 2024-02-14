@@ -10,28 +10,64 @@ This report provides insights into the mental health status of tech employees ba
 
 **Answer:**
 
-![Screenshot for Question 1](URL_TO_YOUR_SCREENSHOT_FOR_QUESTION_1)
+![Screenshot for Question 1](Output Images/Answer1.jpg)
 
 ### Question 2: How Many Surveyed Were Older Than 25?
 
 **Answer:**
 
-![Screenshot for Question 2](URL_TO_YOUR_SCREENSHOT_FOR_QUESTION_2)
+![Screenshot for Question 2](Output Images/Answer2.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 3](URL_TO_YOUR_SCREENSHOT_FOR_QUESTION_3)
+![Screenshot for Question 3](Output Images/Answer3.jpg)
 
-...
+### Question 3: How Many People Were Surveyed by Gender?
 
-(Continue in the same format for the rest of the questions)
+**Answer:**
+
+![Screenshot for Question 4](Output Images/Answer4.jpg)
+
+### Question 3: How Many People Were Surveyed by Gender?
+
+**Answer:**
+
+![Screenshot for Question 5](Output Images/Answer5.jpg)
+
+### Question 3: How Many People Were Surveyed by Gender?
+
+**Answer:**
+
+![Screenshot for Question 6](Output Images/Answer6.jpg)
+
+### Question 3: How Many People Were Surveyed by Gender?
+
+**Answer:**
+
+![Screenshot for Question 7](Output Images/Answer7.jpg)
+
+### Question 3: How Many People Were Surveyed by Gender?
+
+**Answer:**
+
+![Screenshot for Question 8](Output Images/Answer8.jpg)
+
+### Question 3: How Many People Were Surveyed by Gender?
+
+**Answer:**
+
+![Screenshot for Question 9](Output Images/Answer9.jpg)
+
+### Question 3: How Many People Were Surveyed by Gender?
+
+**Answer:**
+
+![Screenshot for Question 10](Output Images/Answer10.jpg)
 
 ## Conclusion
 
 (Summarize the key findings and insights from your analysis, and propose any recommendations or next steps based on your findings.)
 
 ---
-
-Please replace `URL_TO_YOUR_SCREENSHOT_FOR_QUESTION_X` with the actual URLs where your screenshots are hosted. This could be a direct link to an image in a GitHub repository, a link from an image hosting service like Imgur, or any other direct link to the image file.
