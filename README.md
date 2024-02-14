@@ -1,6 +1,6 @@
 # CodeBrainWaves: Navigating Mental Health in Tech
 
-![Header Image](CodeBrainWavesHeader.webp)
+![Header Image](https://github.com/mohjaiswal/CodeBrainWaves/blob/439cec96ec2ed896c88e033a6ddbae4dbfe42dfb/Output%20Images/CodeBrainWavesHeader.webp)
 ### Analytics Report prepared by Moh Jaiswal
 
 ## Introduction
