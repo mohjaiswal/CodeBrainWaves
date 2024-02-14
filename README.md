@@ -17,7 +17,7 @@ Tech professionals often face unique pressures, including long hours, high stake
 
 ## Insights from the Mental Health inTech Survey
 
-Note: For detailed screenshots of the query please refer to the [Survey Analysis Report.md](https://github.com/mohjaiswal/CodeBrainWaves/blob/main/Survey%20Analysis%20Report.md)
+Note: For detailed screenshots of the query please refer to the ![Survey Analysis Report.md](https://github.com/mohjaiswal/CodeBrainWaves/blob/f198675bb757b0ee571f3e96e4cdf28c7a974386/Survey%20Analysis%20Output%20Images.md)
 
 Diving into the vast sea of data from the 2015 Mental Health inTech Survey, we've unearthed some compelling narratives about the state of mental health within the tech industry. Here's a summary of our key findings:
 
