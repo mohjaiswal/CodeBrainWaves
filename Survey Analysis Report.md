@@ -9,7 +9,6 @@ This report provides insights into the mental health status of tech employees ba
 ### Question 1: Retrieve All Columns from the Age Table
 
 **Answer:**
-
 ![Screenshot for Question 1](Output Images/Answer1.jpg)
 
 ### Question 2: How Many Surveyed Were Older Than 25?
