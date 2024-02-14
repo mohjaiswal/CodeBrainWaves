@@ -13,7 +13,7 @@ Tech professionals often face unique pressures, including long hours, high stake
 
 ## Entity-Relationship Diagram (ERD)
 
-![ERD Image](SQLERD.png)
+![ERD Image](https://github.com/mohjaiswal/CodeBrainWaves/blob/3c0089c5705db459bd9baff6e65b0ddbee61f24d/Output%20Images/ERD.png)
 
 ## Insights from the Mental Health inTech Survey
 
