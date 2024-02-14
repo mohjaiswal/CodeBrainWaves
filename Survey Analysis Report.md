@@ -10,64 +10,60 @@ This report provides insights into the mental health status of tech employees ba
 
 **Answer:**
 
-![Screenshot for Question 1](Output Images/Answer1.jpg)
+![Screenshot for Question 1](Output_Images/Answer1.jpg)
 
 ### Question 2: How Many Surveyed Were Older Than 25?
 
 **Answer:**
 
-![Screenshot for Question 2](Output Images/Answer2.jpg)
+![Screenshot for Question 2](Output_Images/Answer2.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 3](Output Images/Answer3.jpg)
+![Screenshot for Question 3](Output_Images/Answer3.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 4](Output Images/Answer4.jpg)
+![Screenshot for Question 4](Output_Images/Answer4.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 5](Output Images/Answer5.jpg)
+![Screenshot for Question 5](Output_Images/Answer5.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 6](Output Images/Answer6.jpg)
+![Screenshot for Question 6](Output_Images/Answer6.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 7](Output Images/Answer7.jpg)
+![Screenshot for Question 7](Output_Images/Answer7.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 8](Output Images/Answer8.jpg)
+![Screenshot for Question 8](Output_Images/Answer8.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 9](Output Images/Answer9.jpg)
+![Screenshot for Question 9](Output_Images/Answer9.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
 **Answer:**
 
-![Screenshot for Question 10](Output Images/Answer10.jpg)
-
-## Conclusion
-
-(Summarize the key findings and insights from your analysis, and propose any recommendations or next steps based on your findings.)
+![Screenshot for Question 10](Output_Images/Answer10.jpg)
 
 ---
