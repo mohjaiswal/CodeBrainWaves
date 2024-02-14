@@ -9,13 +9,13 @@ This report provides insights into the mental health status of tech employees ba
 ### Question 1: Retrieve All Columns from the Age Table
 
 **Answer:**
-![Screenshot for Question 1](Output Images/Answer1.jpg)
+![Screenshot for Question 1](https://github.com/mohjaiswal/CodeBrainWaves/blob/6869a2e6e94e632a9a93479430c3da1fe1eddb7b/Output%20Images/Answer1.jpg)
 
 ### Question 2: How Many Surveyed Were Older Than 25?
 
 **Answer:**
 
-![Screenshot for Question 2](Output_Images/Answer2.jpg)
+![Screenshot for Question 2](https://github.com/mohjaiswal/CodeBrainWaves/blob/6869a2e6e94e632a9a93479430c3da1fe1eddb7b/Output%20Images/Answer2.jpg)
 
 ### Question 3: How Many People Were Surveyed by Gender?
 
